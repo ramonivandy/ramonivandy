@@ -1,7 +1,7 @@
-# Hello there 👋, Ramon here!
+# Hey there, I'm Ramon! 👨‍💻
 
 ### Software Engineer, Backend dev
 
-- 🔭 I’m currently working on: __PT Yamaha Musical Products Asia__ 
-- 🌱 I’m currently learning: __Go Language, Docker, RESTful API (soon Cloud things like AWS, etc...)__
-- 👀 Available 18.00 - 22.00 WIB for collab and learn new things 👀
+- 🔥 Building greatness @ __PT Yamaha Musical Products Asia__  
+- 🌱 Exploring the wonders of __Go Language, Docker, and RESTful APIs (soon Cloud things like AWS, etc...)__
+- 🎯 Available for collaboration and learning from 18.00 to 22.00 WIB
