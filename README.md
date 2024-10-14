@@ -2,6 +2,6 @@
 
 ### Software Engineer, Backend Developer
 
-- 🏢 Currently @ __PT Yamaha Musical Products Asia__ as Fullstack Dev (PHP, CI3, Bootstrap)
-- 🌱 Exploring the wonders of __Go Language, Docker, and RESTful APIs (soon Cloud things like AWS, etc...)__
+- 🏢 Main Stack PHP, CI3/Laravel, Bootstrap
+- 🌱 Exploring the wonders of __Docker and RESTful APIs__
 - 🎯 Available for collaboration and learning from 18.00 to 22.00 WIB
